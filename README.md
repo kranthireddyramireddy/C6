@@ -55,3 +55,23 @@ void main()
         printf("SEARCH FAILED\n");
     }
 }
+
+
+output
+enter the value of num
+4
+enter the elements one by one 
+65 76 87 45
+input array elements
+65
+76
+87
+45
+sorted array is ....
+45
+65
+76
+87
+enter the element to be searched
+76
+SEARCH SUCCESSFULL
